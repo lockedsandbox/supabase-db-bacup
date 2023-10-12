@@ -1,2 +1,1 @@
-# supabase-db-bacup
-Supabase database backup using Github actions
+# Supabase database backup
