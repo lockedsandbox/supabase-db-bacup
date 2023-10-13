@@ -155,7 +155,12 @@ e4fc4e1a-038e-452a-98fd-16f79526df7d	satendr0408	Satendra	Prajapati	satendra@pie
 fb8821c0-7f83-4e1f-a524-9cae3be130c2	code_sandbox	Code	Sandbox	lockedsandbox@gmail.com	other	2002-09-30	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	fHey3Viu40BSjr06WnPBRM:APA91bFNq9zD0dk7C3Of9FTmSRjxVVZo3WCa1yRS6OzAzz1JK2OJBOZVTwHnnYGbryHM_t-g7Ov3ALvvSdxEM9ZYHTRA4MiQZKq1Bs9Uk7Q2nUSsZlaVduyDQnJk5s35r_m0mPYTnuGZ	{"deviceId":"46CE61E8-C723-4273-9C2E-0FE3C0ACFADA","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0.2","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone"}	2023-09-30 05:49:14.977144+00	2023-09-30 05:49:14.977144+00
 4e1b4ece-0f8b-49b4-82f7-a2ea0d4eba77	vishal.ojha	Vishal	Ojha	vishal.ojha@piecodes.in	other	1999-06-28	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	di84P9xbTTa3kNeqrgaJ0Y:APA91bHzjpSlTFtS-LqZUiMu_OceLyiKByF5hVeJhfjc1pajd0PdMZJZrBG7749kDhqiJvWTMxlfN2vfc0vucD3xj2BUkuyfbdxe-b-2hEE0rLysHsbCLYL0A1Kgnr3LxmWcq9_v95fj	{"deviceId":"PKQ1.180904.001","device":"tulip","baseOS":"","manufacturer":"Xiaomi","apiLevel":28,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"Redmi Note 6 Pro"}	2023-10-05 14:26:37.111548+00	2023-10-05 14:26:37.111548+00
 4629cfc2-4a74-4b7d-8dd2-0d6643436006	isadate_test	Isadate	Test	isadate@mailinator.com	other	1990-09-29	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	d3ggzpO6T2CwnRy5Y3fzZe:APA91bHcPQE8hIs9SaNIA0sCksKbbsHSGecctGy0jPj4iwNwNZSrylvhjPtZ4_Xi7LrpppFAlozCgXOsiYr336EYTGR38DfxSbqrCxwt8mK6p8jZQV5H4Gior3_xEY8N-0kT1NaA094I	{"deviceId":"TE1A.220922.033","device":"emu64a","baseOS":"","manufacturer":"Google","apiLevel":33,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"sdk_gphone64_arm64"}	2023-09-29 07:46:47.432939+00	2023-09-29 07:46:47.432939+00
-9e78770f-46ff-4a48-b7c2-46f42b728c19	aris	Aris	Au	singular.aris@gmail.com	other	1992-01-01	\N	active	Mon, Tue, Wed, Thu, Fri	08:00 - 06:00	Wed, Thu, Fri, Sat, Sun, Mon, Tue	00:00 - 08:00	\N	\N	doxifBXET8aoBQNCfi3Fcw:APA91bGdhKSvPNi2WQzOSCsHvQiktkPqq3uCmwgUwmyRWhZi25fWGk6HsX5qTCrCNGtIHk6kgnLr9wlbpDi7uAyenjMjTInaSLP-brdo_mbFVLqfj9NxtCKg4goZ98Qmg3egQlc9NeEL	{"deviceId":"SP1A.210812.016","device":"a12s","baseOS":"","manufacturer":"samsung","apiLevel":31,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"SM-A127F"}	2023-10-06 08:17:07.726915+00	2023-10-06 08:17:07.726915+00
+506f6e49-5b9e-4a31-b03c-92a6cd264cac	\N	Marta	Garner	martagarner.79328@gmail.com	other	\N	\N	active	\N	\N	\N	\N	\N	\N	\N	\N	2023-10-12 12:32:57.355157+00	2023-10-12 12:32:57.355157+00
+90e15b72-7d81-4f04-a341-28087ac2a0f3	notches	Ray	Ong	glamourousbuddha@gmail.com	other	1990-06-09	\N	active	Mon, Tue, Wed, Thu, Fri	09:00 - 18:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 07:30	\N	\N	fcu5gHFLwkd7nm0X4ECixq:APA91bH6WECz2dGw6zGHfbRv2yIhT0aNcAvcewR5Ui8XImh4CWdLRusCPptCYM9Rwc3xojcpzs5q7sHtgLUpuu4BDBlQvLLSqXPROkAYPNfB6rRxaYIHebie6og9LAvdtIZKGnJY14m8	{"deviceId":"8A6DA3DB-337F-4D39-911B-596F9670965D","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0.3","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone"}	2023-10-12 13:12:34.66896+00	2023-10-12 13:12:34.66896+00
+c3013992-f792-4009-a8e5-7d2d93a7d32d	\N	null	null	rjy85wm2yx@privaterelay.appleid.com	other	\N	\N	active	\N	\N	\N	\N	\N	\N	\N	\N	2023-10-12 21:13:35.164826+00	2023-10-12 21:13:35.164826+00
+bdb0cccd-1798-4022-bb07-7269b2c051cf	usertest	User	Test	isadate.app@gmail.com	other	2000-01-01	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	doxifBXET8aoBQNCfi3Fcw:APA91bGdhKSvPNi2WQzOSCsHvQiktkPqq3uCmwgUwmyRWhZi25fWGk6HsX5qTCrCNGtIHk6kgnLr9wlbpDi7uAyenjMjTInaSLP-brdo_mbFVLqfj9NxtCKg4goZ98Qmg3egQlc9NeEL	{"deviceId":"SP1A.210812.016","device":"a12s","baseOS":"","manufacturer":"samsung","apiLevel":31,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"SM-A127F"}	2023-10-12 08:29:42.637559+00	2023-10-12 08:29:42.637559+00
+9e78770f-46ff-4a48-b7c2-46f42b728c19	aris	Aris	Au	singular.aris@gmail.com	other	1992-01-01	\N	active	Mon, Tue, Wed, Thu, Fri	08:00 - 06:00	Wed, Thu, Fri, Sat, Sun, Mon, Tue	00:00 - 08:00	\N	\N	fXcVM0Q7v0c-iT5hDHISTI:APA91bErFhDateG8JftwkLSRbSMTGpR6hqGXXx2qi7Co9Tea8QmWe3pGhkyOUvNr_uUFs0bjXxTelXjXChwD_v_TXJ8vvO4Jf8HQGahjmqOenlyHDQdmq3Ql6tpJiuewx83vy689jRzd	{"deviceId":"E1A06B36-7817-4048-953B-B4853B1885ED","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0.3","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone"}	2023-10-06 08:17:07.726915+00	2023-10-06 08:17:07.726915+00
+724e0cde-1a97-4d4e-80c2-bec4cde02b3b	aristest	aris	au	chaos8rt@gmail.com	other	2000-10-12	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	fXcVM0Q7v0c-iT5hDHISTI:APA91bErFhDateG8JftwkLSRbSMTGpR6hqGXXx2qi7Co9Tea8QmWe3pGhkyOUvNr_uUFs0bjXxTelXjXChwD_v_TXJ8vvO4Jf8HQGahjmqOenlyHDQdmq3Ql6tpJiuewx83vy689jRzd	{"deviceId":"E1A06B36-7817-4048-953B-B4853B1885ED","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0.3","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone"}	2023-10-12 09:17:18.277745+00	2023-10-12 09:17:18.277745+00
 \.
 
 
@@ -174,6 +179,8 @@ bab9dac2-eac5-4609-b30f-e2a852a3e4b8	active	onetoone	KrishnaPal Singh&Krishna Si
 149721b0-758f-45db-a8a3-2bd19842cd6a	active	onetoone	Code Sandbox&Krishna Singh	2023-10-06 07:17:38.557035+00	2023-10-06 07:17:38.557035+00	fb8821c0-7f83-4e1f-a524-9cae3be130c2
 8bdb177e-c659-47bb-81be-80a72c759301	active	onetoone	Gaurav Bhargava&Krishna Singh	2023-10-06 07:19:38.467112+00	2023-10-06 07:19:38.467112+00	feca5824-2205-4cfa-885c-5bcb492172a4
 e60037fe-2b86-4d13-aa71-39888cd85abf	active	onetoone	Isadate & Gaurav	2023-10-09 06:49:03.005372+00	2023-10-09 06:49:03.005372+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006
+c2cd8e08-fc17-42f4-bda5-c9b50f96565b	active	onetoone	Aris Au&User Test	2023-10-12 09:22:08.324215+00	2023-10-12 09:22:08.324215+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
+2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	active	onetoone	Ray Ong&aris au	2023-10-12 13:30:56.860177+00	2023-10-12 13:30:56.860177+00	90e15b72-7d81-4f04-a341-28087ac2a0f3
 \.
 
 
@@ -206,6 +213,10 @@ b445d992-2677-4bee-9541-56bf4386bc3b	user	active	2023-10-06 07:17:38.651165+00	2
 93eada6a-6a8b-4c02-9d3e-d9567f0a8894	user	active	2023-10-06 07:19:38.557446+00	2023-10-06 07:19:38.557446+00	8bdb177e-c659-47bb-81be-80a72c759301	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
 0ede2851-8432-4fef-a174-23a5230aa67c	user	active	2023-10-09 06:49:03.096127+00	2023-10-09 06:49:03.096127+00	e60037fe-2b86-4d13-aa71-39888cd85abf	4629cfc2-4a74-4b7d-8dd2-0d6643436006
 a2b76f1a-f29f-4018-8c7c-3d920099bf51	user	active	2023-10-09 06:49:03.096127+00	2023-10-09 06:49:03.096127+00	e60037fe-2b86-4d13-aa71-39888cd85abf	feca5824-2205-4cfa-885c-5bcb492172a4
+6d91eca1-40f4-4308-bff3-836662d2ef33	user	active	2023-10-12 09:22:08.412404+00	2023-10-12 09:22:08.412404+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	9e78770f-46ff-4a48-b7c2-46f42b728c19
+08b2625a-bc8e-4fff-91a6-5728099a85de	user	active	2023-10-12 09:22:08.412404+00	2023-10-12 09:22:08.412404+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	bdb0cccd-1798-4022-bb07-7269b2c051cf
+ef85377c-2d4e-4d61-a6f2-6a5b03565be8	user	active	2023-10-12 13:30:56.949368+00	2023-10-12 13:30:56.949368+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	90e15b72-7d81-4f04-a341-28087ac2a0f3
+a5b92141-5e84-47ec-b8b1-f85384cc88ce	user	active	2023-10-12 13:30:56.949368+00	2023-10-12 13:30:56.949368+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
 \.
 
 
@@ -246,6 +257,19 @@ e17f26e4-9e76-4841-9f48-e10c8b29cda8	hi	2023-10-10 05:19:29.086298+00	2023-10-10
 a30aae3e-c090-46a7-a412-5b2dd2dbcd3b	hi	2023-10-10 05:20:24.005395+00	2023-10-10 05:20:24.005395+00	e60037fe-2b86-4d13-aa71-39888cd85abf	4629cfc2-4a74-4b7d-8dd2-0d6643436006
 f798d328-02c3-4d2d-acd5-38b5cb100ab0	how r u	2023-10-10 05:25:12.58829+00	2023-10-10 05:25:12.58829+00	e60037fe-2b86-4d13-aa71-39888cd85abf	4629cfc2-4a74-4b7d-8dd2-0d6643436006
 fa4b673d-a218-4580-8ca6-ec82631a89e5	.	2023-10-10 05:44:20.86107+00	2023-10-10 05:44:20.86107+00	e60037fe-2b86-4d13-aa71-39888cd85abf	4629cfc2-4a74-4b7d-8dd2-0d6643436006
+7fe59ac1-9ff1-48d9-af60-633591eef968	Hey	2023-10-12 09:22:09.474054+00	2023-10-12 09:22:09.474054+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	9e78770f-46ff-4a48-b7c2-46f42b728c19
+ff1489c6-d289-4499-a5c0-610ddb8aa73b	Hello	2023-10-12 09:36:43.359046+00	2023-10-12 09:36:43.359046+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	bdb0cccd-1798-4022-bb07-7269b2c051cf
+ecf72b2c-e086-40af-a116-290d822ca6b4	Sup	2023-10-12 09:37:12.368237+00	2023-10-12 09:37:12.368237+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	9e78770f-46ff-4a48-b7c2-46f42b728c19
+b7627f41-0e4c-48f4-8889-868a114c0b69	Cool dude	2023-10-12 09:41:19.648786+00	2023-10-12 09:41:19.648786+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	bdb0cccd-1798-4022-bb07-7269b2c051cf
+d47cd6f8-9673-4c35-a1ab-7dd0bdff861e	Hello	2023-10-12 10:21:12.534986+00	2023-10-12 10:21:12.534986+00	c2cd8e08-fc17-42f4-bda5-c9b50f96565b	9e78770f-46ff-4a48-b7c2-46f42b728c19
+5f23dee7-e11d-4a29-8550-b2021b7fdcb8	ARIS	2023-10-12 13:30:57.85693+00	2023-10-12 13:30:57.85693+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	90e15b72-7d81-4f04-a341-28087ac2a0f3
+85d43b60-6105-40d9-80f4-1685f75dfdee	HELLOOOOOOO	2023-10-12 13:31:03.223341+00	2023-10-12 13:31:03.223341+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	90e15b72-7d81-4f04-a341-28087ac2a0f3
+9b54c030-5ec6-4d5a-bd8a-4293d784512c	GU GU JIAOOOOOO	2023-10-12 13:31:09.91839+00	2023-10-12 13:31:09.91839+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	90e15b72-7d81-4f04-a341-28087ac2a0f3
+f23ade73-d18f-42ad-932f-533336f44354	Hello	2023-10-12 13:31:27.646762+00	2023-10-12 13:31:27.646762+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+4fbcc54d-3162-43cb-8663-1c462b9ac621	The chat is in reverse now lol	2023-10-12 13:31:37.371684+00	2023-10-12 13:31:37.371684+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+8efb6ba2-4b7d-449d-b8fe-cddb67c167d2	Somemore need to back and forth to refresh the chat, damn lame	2023-10-12 13:32:10.326831+00	2023-10-12 13:32:10.326831+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+023f6570-d5d6-476e-a302-95dc4c95edee	Now I realised if the text is too long it just cut off LOLL shit	2023-10-12 13:32:48.019373+00	2023-10-12 13:32:48.019373+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+c6dd3389-fc27-4a56-82cf-255451723f1d	Now I realised if the text is too long it just cut off LOLL shit	2023-10-12 13:32:48.572951+00	2023-10-12 13:32:48.572951+00	2e9b62c5-dc2f-47f5-8708-7c85adaa99ed	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
 \.
 
 
@@ -272,6 +296,9 @@ beed9fcd-20a8-40b7-8f2a-ae87eb55f4d8	Meeting	Test		10minsbefore	f	t	t	2023-10-06
 fc86a278-9823-4962-8436-745a0363519e	Date	Test		sameday	f	t	f	2023-10-14	2023-10-14	1900	2000	\N	\N	2023-10-06 13:08:18.045687+00	2023-10-06 13:08:18.045687+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
 c921e731-743e-4e4b-bf0d-725fcd714deb	Meeting	Guna		sameday	t	f	f	2023-10-09	2023-10-09	1400	1500	\N	\N	2023-10-09 07:20:44.718063+00	2023-10-09 07:20:44.718063+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
 c8e2ea45-304c-4873-8aed-2dc6e4e3cd1d	Dinner	indore		sameday	t	f	t	2023-10-09	2023-10-09	1300	1400	\N	\N	2023-10-09 07:25:18.336471+00	2023-10-09 07:25:18.336471+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006
+26efffac-0125-44f3-82cb-5ee1c0110f77	Date	Test		sameday	f	t	t	2023-10-13	2023-10-13	0	100	\N	\N	2023-10-12 07:36:01.533484+00	2023-10-12 07:36:01.533484+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
+48ebffbf-1e36-4e9d-8744-2f17afe69af6	Date	Test		sameday	t	f	f	2023-10-15	2023-10-15	2200	2300	\N	\N	2023-10-12 13:33:40.652831+00	2023-10-12 13:33:40.652831+00	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+2b0a5b63-0715-47cc-90dd-258072613c51	Meeting	Test		sameday	t	f	f	2023-10-15	2023-10-15	0	100	\N	\N	2023-10-12 14:36:36.086821+00	2023-10-12 14:36:36.086821+00	bdb0cccd-1798-4022-bb07-7269b2c051cf
 \.
 
 
@@ -316,6 +343,10 @@ f55de43c-ea4a-4c8f-ba42-c7c25f099796	accepted	host	2023-10-04 05:26:23.518679+00
 fee4022c-a44d-465f-a8ae-0db685dfe263	accepted	host	2023-09-29 11:05:31.16022+00	2023-09-29 11:05:31.16022+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006	addd4eca-0352-4a76-b6bd-209fe63f29b3
 defe7da4-fa6f-487d-806a-426935d875bd	accepted	host	2023-10-09 07:25:18.425775+00	2023-10-09 07:25:18.425775+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006	c8e2ea45-304c-4873-8aed-2dc6e4e3cd1d
 d047a274-98c1-4d95-aedf-db46093e395a	accepted	participant	2023-10-09 07:25:18.425775+00	2023-10-09 07:25:18.425775+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75	c8e2ea45-304c-4873-8aed-2dc6e4e3cd1d
+315705d0-e59e-4d76-8ca0-9d2420894d36	accepted	participant	2023-10-12 13:34:07.123843+00	2023-10-12 13:34:07.123843+00	90e15b72-7d81-4f04-a341-28087ac2a0f3	48ebffbf-1e36-4e9d-8744-2f17afe69af6
+ec40ac4a-59ec-43fb-953f-b463d725346f	accepted	host	2023-10-12 13:34:07.123843+00	2023-10-12 13:34:07.123843+00	724e0cde-1a97-4d4e-80c2-bec4cde02b3b	48ebffbf-1e36-4e9d-8744-2f17afe69af6
+4a1bf98f-6ad9-4f6e-9daf-1d5d49271bfb	pending	participant	2023-10-12 14:36:36.177505+00	2023-10-12 14:36:36.177505+00	9e78770f-46ff-4a48-b7c2-46f42b728c19	2b0a5b63-0715-47cc-90dd-258072613c51
+33d4fd53-acb4-4ab8-9616-c66d5dbcfb3c	accepted	host	2023-10-12 14:36:36.177505+00	2023-10-12 14:36:36.177505+00	bdb0cccd-1798-4022-bb07-7269b2c051cf	2b0a5b63-0715-47cc-90dd-258072613c51
 cf9dcdee-f3f6-4555-a471-d30a9e70d0a1	accepted	host	2023-09-30 10:12:41.225354+00	2023-09-30 10:12:41.225354+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75	62b89a56-4774-4149-8f68-010af4a740c1
 dce7953e-661c-4ff4-8ffd-0a4e4f27086f	accepted	participant	2023-09-30 10:12:41.225354+00	2023-09-30 10:12:41.225354+00	b6d1446b-43cd-4215-a7d8-dd8f629b7bb7	62b89a56-4774-4149-8f68-010af4a740c1
 8c9a50aa-1261-4452-bc29-87937bc0ae50	pending	participant	2023-10-03 12:53:45.883926+00	2023-10-03 12:53:45.883926+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75	05eee544-3507-4beb-943e-0e29af91e31b
@@ -345,6 +376,8 @@ e7ac2809-017e-4ecd-b03d-5ba0d98ff939	4629cfc2-4a74-4b7d-8dd2-0d6643436006	accept
 f06f16a9-4d0c-4d5a-b027-54c0919f1384	e4fc4e1a-038e-452a-98fd-16f79526df7d	accepted	\N	2023-10-05 14:26:12.051423+00	2023-10-05 14:26:12.051423+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
 e2ec36f5-f6cc-4e12-b9f9-0bffec5866cf	4e1b4ece-0f8b-49b4-82f7-a2ea0d4eba77	pending	\N	2023-10-05 14:28:26.431218+00	2023-10-05 14:28:26.431218+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
 912c685f-cc1c-47b8-a09a-2e3b75a403d4	a14b5d88-bfc5-44c5-9a57-9d25022a2c75	accepted	\N	2023-10-06 07:13:44.019914+00	2023-10-06 07:13:44.019914+00	fb8821c0-7f83-4e1f-a524-9cae3be130c2
+a98a5e9c-0473-4d1d-a14f-d80027f771c7	9e78770f-46ff-4a48-b7c2-46f42b728c19	accepted	\N	2023-10-12 09:15:12.907168+00	2023-10-12 09:15:12.907168+00	bdb0cccd-1798-4022-bb07-7269b2c051cf
+139c243d-c736-4e59-8f65-af6892251927	90e15b72-7d81-4f04-a341-28087ac2a0f3	accepted	\N	2023-10-12 13:30:31.350125+00	2023-10-12 13:30:31.350125+00	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
 \.
 
 
@@ -447,6 +480,10 @@ f81c1910-47c6-47ce-bfab-dc708ca9025d	Neha Tiwari accepted your invitation to a d
 933ebcee-19ab-45fa-866b-b465b85206ea	Krishna Singh accepted your invitation to a date on October 6th	Event invitation update	unread	{"action":"invite","event_id":"ee4a0ea5-1f32-4ec0-a36d-508c234fc6d3"}	2023-10-06 07:16:35.235174+00	2023-10-06 07:16:35.235174+00	fb8821c0-7f83-4e1f-a524-9cae3be130c2
 0069467b-4640-4f96-b522-9441f7d5f74e	Isadate Test accepted your invitation to a date on October 9th	Event invitation update	unread	{"action":"invite","event_id":"c921e731-743e-4e4b-bf0d-725fcd714deb"}	2023-10-09 07:21:13.705512+00	2023-10-09 07:21:13.705512+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
 0e648cf5-5f97-47f0-9cc6-ba53adde206e	Krishna Kumar accepted your invitation to a date on October 9th	Event invitation update	unread	{"action":"invite","event_id":"c8e2ea45-304c-4873-8aed-2dc6e4e3cd1d"}	2023-10-09 07:25:36.144898+00	2023-10-09 07:25:36.144898+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006
+78a469cb-2394-4494-a6dc-93cb919ba5f0	@ArisAu has accepted your friend request	Friend request update	unread	{"friendship_id":"bdb0cccd-1798-4022-bb07-7269b2c051cf"}	2023-10-12 09:19:08.327228+00	2023-10-12 09:19:08.327228+00	bdb0cccd-1798-4022-bb07-7269b2c051cf
+c0c15e8f-29ee-4ada-8237-138117b7e680	@RayOng has accepted your friend request	Friend request update	unread	{"friendship_id":"724e0cde-1a97-4d4e-80c2-bec4cde02b3b"}	2023-10-12 13:30:39.336714+00	2023-10-12 13:30:39.336714+00	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+9940c829-c15c-43ea-a0ce-579d701be1ee	aris au sent you an invitation to a date on October 15th	Event invitation	unread	{"action":"invite","event_id":"48ebffbf-1e36-4e9d-8744-2f17afe69af6"}	2023-10-12 13:33:41.116659+00	2023-10-12 13:33:41.116659+00	90e15b72-7d81-4f04-a341-28087ac2a0f3
+1000f14f-5f31-4600-9b58-ffb36426fa8a	User Test sent you an invitation to a date on October 15th	Event invitation	unread	{"action":"invite","event_id":"2b0a5b63-0715-47cc-90dd-258072613c51"}	2023-10-12 14:36:36.526871+00	2023-10-12 14:36:36.526871+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
 \.
 
 
@@ -467,9 +504,14 @@ a607e6f6-a569-4eab-ab76-2b2a81b498ad	mNtERdBxDNIDz4KbA2obb	e895d7f3-05ce-4963-98
 2cf51ddb-d4fc-4075-9c78-f69a74e13114	IjySJ2BiNUoeGdbEkC3sU	90de8226-f287-4054-b8be-736740dd6ec2	2023-10-05 14:27:15.575042+00	2023-10-05 14:27:15.575042+00	4e1b4ece-0f8b-49b4-82f7-a2ea0d4eba77
 d59c650c-278b-463c-8b85-ad270c63fce1	BzQUhZ5bVUeV4KpoOudVk	cb748cd5-f446-4221-a9f1-605e2fd606a0	2023-10-06 07:03:36.87397+00	2023-10-06 07:03:36.87397+00	b6d1446b-43cd-4215-a7d8-dd8f629b7bb7
 4d871c6e-c542-41c8-aea0-56b332149983	muu2TOlyi0uDX-javm0-7	69275b4f-ffce-4685-96f9-58c604de1883	2023-10-06 07:05:30.517626+00	2023-10-06 07:05:30.517626+00	fb8821c0-7f83-4e1f-a524-9cae3be130c2
-4a805deb-f4b9-4f55-a8be-c516527767a3	HzZt5Q0M4gFcAUzLMU2Xx	b43b2cc4-614b-43c7-8da5-356734a0318f	2023-10-06 08:30:14.676674+00	2023-10-06 08:30:14.676674+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
 233d3614-c227-4b2e-a970-d5a3c0614603	pwTIHxPm8nFplx0gtFTqu	74c28cc2-ea57-4d66-9dd7-a68cbf64c8d1	2023-10-09 06:45:26.445015+00	2023-10-09 06:45:26.445015+00	4629cfc2-4a74-4b7d-8dd2-0d6643436006
 d141d897-618f-4353-a12f-125abbfd8f20	yY_WsUg9vu2EloGjJ0UXW	bd18f77a-d5cf-42da-a206-8c08826e5ac8	2023-10-09 07:24:53.538281+00	2023-10-09 07:24:53.538281+00	a14b5d88-bfc5-44c5-9a57-9d25022a2c75
+26f93cb2-8153-4762-be74-7259ac435df7	N1ee71pGBwcofYDx236SW	5f62301e-675a-4310-b30e-ef6399cb4278	2023-10-12 09:36:28.46508+00	2023-10-12 09:36:28.46508+00	bdb0cccd-1798-4022-bb07-7269b2c051cf
+10ae386b-e3c9-41ad-b49f-e7edeb9ab857	d2no2c2U08P7IpfyO_OM3	289d7ef3-75bc-4ffa-9646-92bf0122d503	2023-10-12 10:20:52.878426+00	2023-10-12 10:20:52.878426+00	9e78770f-46ff-4a48-b7c2-46f42b728c19
+26bcdb20-f487-41d6-8a83-1e64bf073f54	dY-RPhx_iheY7v9cDXNqX	a9b4d87d-9ee7-441d-b1bc-5158c264544f	2023-10-12 12:25:10.290817+00	2023-10-12 12:25:10.290817+00	724e0cde-1a97-4d4e-80c2-bec4cde02b3b
+7a8408b1-43cb-45bc-b64c-b00e1cca36d7	KmCSNP5f8HAPlKUwVMHca	2f91195a-c4de-475d-ae04-a1cf431bb97b	2023-10-12 12:32:57.72741+00	2023-10-12 12:32:57.72741+00	506f6e49-5b9e-4a31-b03c-92a6cd264cac
+6af3eabe-bf48-4884-adef-8c6f2228d66f	6gK-t1GCLa1UikII3mPUW	79ea338a-a154-4f64-9dcb-4b77da61447f	2023-10-12 13:12:35.019487+00	2023-10-12 13:12:35.019487+00	90e15b72-7d81-4f04-a341-28087ac2a0f3
+50340055-c4dc-4460-a29e-1c72aed5ed71	QtEe1GxUd_4E3iw7_Tvkd	87f55fa9-9f23-40a4-a17b-0e3b38091fba	2023-10-12 21:13:35.537197+00	2023-10-12 21:13:35.537197+00	c3013992-f792-4009-a8e5-7d2d93a7d32d
 \.
 
 
