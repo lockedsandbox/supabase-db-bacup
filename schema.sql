@@ -107,19 +107,19 @@ CREATE TABLE IF NOT EXISTS "public"."events" (
     "description" "text",
     "reminder" character varying(255),
     "is_reminder_sent" boolean DEFAULT false,
+    "is_early_reminder" boolean DEFAULT false,
     "is_solo" boolean DEFAULT false,
     "is_important" boolean DEFAULT false,
     "start_date" "date",
     "end_date" "date",
     "start_time" integer,
     "end_time" integer,
+    "status" character varying(255),
     "venue_long" double precision,
     "venue_lat" double precision,
     "created_at" timestamp with time zone DEFAULT CURRENT_TIMESTAMP NOT NULL,
     "updated_at" timestamp with time zone DEFAULT CURRENT_TIMESTAMP NOT NULL,
-    "user_id" "uuid" NOT NULL,
-    "is_early_reminder" boolean DEFAULT false,
-    "status" character varying(255)
+    "user_id" "uuid" NOT NULL
 );
 
 ALTER TABLE "public"."events" OWNER TO "postgres";
