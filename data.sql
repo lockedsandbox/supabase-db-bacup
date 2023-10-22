@@ -145,6 +145,7 @@ COPY "public"."users" ("id", "username", "first_name", "last_name", "email", "ge
 67d69ef7-6df2-40ac-8c97-37ed0a1155f7	krishna1	Krishna	Singh	krishnapal@piecodes.in	other	1998-10-20	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	ec2D3GgkRHeIRk_foGdON5:APA91bGA5BbTrJPmb6XpIUt68QVKcGnbBhoXEkFtn6EDYibAIWCaNzGO3t9sHWwoxjMYs2kKrfiD42pLylWcgmTYa1tpIWvkwuIhEaWHYbCYz4gUIg5KqB6Tk79wyoXuGUiRP00oIlQA	{"deviceId":"TE1A.220922.033","device":"emu64a","baseOS":"","manufacturer":"Google","apiLevel":33,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"sdk_gphone64_arm64"}	2023-10-20 06:53:54.534684+00	2023-10-20 06:53:54.534684+00
 f6f99898-7726-4f94-be66-c9f72f3f0dcf	aris	Aris	Au	singular.aris@gmail.com	other	1992-01-27	\N	active	Mon, Tue, Wed, Thu, Fri	08:00 - 18:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	00:00 - 08:00	\N	\N	fXcVM0Q7v0c-iT5hDHISTI:APA91bErFhDateG8JftwkLSRbSMTGpR6hqGXXx2qi7Co9Tea8QmWe3pGhkyOUvNr_uUFs0bjXxTelXjXChwD_v_TXJ8vvO4Jf8HQGahjmqOenlyHDQdmq3Ql6tpJiuewx83vy689jRzd	{"deviceId":"E1A06B36-7817-4048-953B-B4853B1885ED","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0.3","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone"}	2023-10-20 12:16:47.482081+00	2023-10-20 12:16:47.482081+00
 ef273cf7-49bf-4f08-ab94-9f7a8818839b	\N	Ray	Ong	glamourousbuddha@gmail.com	other	\N	\N	active	\N	\N	\N	\N	\N	\N	\N	\N	2023-10-20 14:05:26.208619+00	2023-10-20 14:05:26.208619+00
+d8df09ce-7124-4c28-bb05-662a721dd5be	ann	도연	김	rlaeh7348@gmail.com	other	2000-11-22	\N	active	Mon, Tue, Wed, Thu, Fri	08:00 - 17:00	Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	dmQEGWEmS0ykrOQWnqsvl8:APA91bFWWgDgyGXgS16yLsCh9Wfio0qsJGt0hldZ5-wJgBXFfebh9T3jQGBT96vSqw8HZx8T8HU65KOQre8pndaoFEmwY7PhHxDrPS6s1LtKe2hYkY_JGzpDnXO1UyAUHn4aoyz4FNnQ	{"deviceId":"TP1A.220624.014","device":"dm3q","baseOS":"","manufacturer":"samsung","apiLevel":33,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"SM-S918N"}	2023-10-21 05:11:11.93942+00	2023-10-21 05:11:11.93942+00
 5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f	isadate_test	Isadate	Test	isadate@mailinator.com	other	2000-10-20	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	c9xza3BNuEX9k3JDa0mA_j:APA91bE9xKsb0PxbkignHrSwH6r1H5i1QJeUkDEltO3lIV_dnNYqO6oFT-uf1frJTxdlxgrJ6ySNdlp2M1gGnZ4Qpi97JCcxpzxGsNUM9y6hhTnRZdk8GUA0h3jUUqdMDlwq-P26hVN1	{"deviceId":"8025CE48-E68F-4333-9ABF-73F9AE9D5554","device":"iPhone","baseOS":"","manufacturer":"Apple","apiLevel":"17.0","IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"iPhone 15 Plus"}	2023-10-20 10:05:19.213665+00	2023-10-20 10:05:19.213665+00
 8f05c522-93da-40bf-b77b-e1e62cf4e42a	pal_singh	Krishna	Pal	krishna756629@gmail.com	other	2008-10-20	\N	active	Mon, Tue, Wed, Thu, Fri	10:00 - 19:00	Mon, Tue, Wed, Thu, Fri, Sat, Sun	23:00 - 06:00	\N	\N	clYozU_MTw6w4wMEGrcKa1:APA91bHLw-veLALW-tYLp6v8oKdH3-hdA2PAtZ000eF2r4bG-aFVxROkXC1Ih5wssz7N47woclgJySCuRCDQul802SQSNYtg2wPbmEc_ZV_4dBOsTGcfXCqLzWhGSNIpMc1kJw1T6cPk	{"deviceId":"TP1A.220624.014","device":"2012","baseOS":"","manufacturer":"vivo","apiLevel":33,"IpAddress":"","maxMemory":"","androidId":"","usedMemory":"","MacAddress":"","deviceName":"I2012"}	2023-10-20 06:53:57.82774+00	2023-10-20 06:53:57.82774+00
 \.
@@ -200,6 +201,7 @@ b9a160fa-d68c-488b-9c0c-029014d4148a	Hello	2023-10-20 16:25:21.400813+00	2023-10
 COPY "public"."events" ("id", "title", "venue", "description", "reminder", "is_reminder_sent", "is_early_reminder", "is_solo", "is_important", "start_date", "end_date", "start_time", "end_time", "status", "venue_long", "venue_lat", "created_at", "updated_at", "user_id") FROM stdin;
 a2bd961c-e371-4deb-b674-091862c3e0e8	Meeting	Guna		sameday	t	f	f	f	2023-10-21	2023-10-21	100	200	active	\N	\N	2023-10-20 07:15:30.074237+00	2023-10-20 07:15:30.074237+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
 fcf419a7-1cfa-4fc2-a558-839a87d33e27	Brunch	Guna		sameday	t	f	f	f	2023-10-22	2023-10-22	800	900	active	\N	\N	2023-10-20 17:04:52.331439+00	2023-10-20 17:04:52.331439+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
+35a0d43c-79ad-4242-ac9a-fc90a1a67b6a	Date	Hehe		sameday	t	f	f	f	2023-10-22	2023-10-22	100	200	active	\N	\N	2023-10-21 05:15:04.938352+00	2023-10-21 05:15:04.938352+00	f6f99898-7726-4f94-be66-c9f72f3f0dcf
 \.
 
 
@@ -241,6 +243,8 @@ d2256669-b3b5-4bff-a871-0a9076386af0	accepted	host	2023-10-20 07:15:30.164349+00
 f080e10a-ab4c-45d9-bf37-4464905b0f0f	accepted	participant	2023-10-20 07:15:30.164349+00	2023-10-20 07:15:30.164349+00	67d69ef7-6df2-40ac-8c97-37ed0a1155f7	a2bd961c-e371-4deb-b674-091862c3e0e8
 c42d9a55-1ef5-445f-b9bb-3280c0fcded2	accepted	host	2023-10-20 17:04:52.422883+00	2023-10-20 17:04:52.422883+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a	fcf419a7-1cfa-4fc2-a558-839a87d33e27
 4820eea4-6f04-4663-a1b4-ee437534bfdc	accepted	participant	2023-10-20 17:04:52.422883+00	2023-10-20 17:04:52.422883+00	5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f	fcf419a7-1cfa-4fc2-a558-839a87d33e27
+bda37e36-8cce-4e81-97b6-12e201d3b25f	accepted	host	2023-10-21 05:15:05.030237+00	2023-10-21 05:15:05.030237+00	f6f99898-7726-4f94-be66-c9f72f3f0dcf	35a0d43c-79ad-4242-ac9a-fc90a1a67b6a
+c74002c7-6d92-40a3-aa50-f8a7ccf62954	accepted	participant	2023-10-21 05:15:05.030237+00	2023-10-21 05:15:05.030237+00	d8df09ce-7124-4c28-bb05-662a721dd5be	35a0d43c-79ad-4242-ac9a-fc90a1a67b6a
 \.
 
 
@@ -251,6 +255,7 @@ c42d9a55-1ef5-445f-b9bb-3280c0fcded2	accepted	host	2023-10-20 17:04:52.422883+00
 COPY "public"."friends" ("id", "friend_id", "status", "note", "created_at", "updated_at", "user_id") FROM stdin;
 ae2c56b4-53de-4516-b860-fb04f47fd1ff	67d69ef7-6df2-40ac-8c97-37ed0a1155f7	accepted	\N	2023-10-20 07:06:32.938553+00	2023-10-20 07:06:32.938553+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
 c025f4df-b54f-4edc-afb0-49e4a00dc017	5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f	accepted	\N	2023-10-20 16:24:21.380875+00	2023-10-20 16:24:21.380875+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
+8163bfae-fb58-480b-ade7-330b4c790fbd	d8df09ce-7124-4c28-bb05-662a721dd5be	accepted	\N	2023-10-21 05:13:33.208088+00	2023-10-21 05:13:33.208088+00	f6f99898-7726-4f94-be66-c9f72f3f0dcf
 \.
 
 
@@ -292,6 +297,8 @@ fc06d34d-a38a-4d6f-a166-ad91739fd4b0	Krishna Pal sent you an invitation to a dat
 cf4914fe-c6bb-43ec-b5fb-dc6ef355d773	Krishna Pal sent you an invitation to a date on @October 22nd	Event invitation	unread	{"action":"invite","event_id":"fcf419a7-1cfa-4fc2-a558-839a87d33e27"}	2023-10-20 17:04:52.872144+00	2023-10-20 17:04:52.872144+00	5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f
 450fb596-6bbd-4e8a-add0-df147c68191b	Krishna Pal sent you an message	Chat message	unread	{"action":"message","message_id":"55f95847-4d8b-4569-a8f5-0498328ee0bd"}	2023-10-20 17:04:54.739527+00	2023-10-20 17:04:54.739527+00	5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f
 d711dd18-80c6-4edc-bb8e-549a3b919226	Isadate Test accepted your invitation to a date on October 22nd	Event invitation update	unread	{"action":"invite","event_id":"fcf419a7-1cfa-4fc2-a558-839a87d33e27"}	2023-10-20 17:15:08.790245+00	2023-10-20 17:15:08.790245+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
+faa64404-9eb7-44b9-94fd-54c6ca21fa6a	도연김 has accepted your friend request	Friend request update	read	{"friendship_id":"f6f99898-7726-4f94-be66-c9f72f3f0dcf"}	2023-10-21 05:13:44.429188+00	2023-10-21 05:13:44.429188+00	f6f99898-7726-4f94-be66-c9f72f3f0dcf
+64da0a79-1156-4275-aee6-f80d21e7279f	도연 김 accepted your invitation to a date on October 22nd	Event invitation update	read	{"action":"invite","event_id":"35a0d43c-79ad-4242-ac9a-fc90a1a67b6a"}	2023-10-21 05:16:44.479554+00	2023-10-21 05:16:44.479554+00	f6f99898-7726-4f94-be66-c9f72f3f0dcf
 \.
 
 
@@ -306,6 +313,7 @@ COPY "public"."sessions" ("id", "device_id", "access_token", "created_at", "upda
 cf36fa3e-b7ab-4d10-af5d-13bc1306eb33	2wWxjQqjxG1zLQsaLpRA9	6e4eac5b-e347-4f06-aaeb-326a284554c6	2023-10-20 16:15:17.652066+00	2023-10-20 16:15:17.652066+00	5fe1aa61-57ab-4fff-a97a-bcdeb1b8926f
 f4e73e90-7602-4dd9-9e73-67346e4ffe2a	q8PEbrl9fJDz7nZ22YtIv	8d66af88-e02d-48d9-9580-84fd6a62299c	2023-10-20 16:23:48.891615+00	2023-10-20 16:23:48.891615+00	8f05c522-93da-40bf-b77b-e1e62cf4e42a
 3bfc4db1-010e-463b-adf3-605ce24f9822	F_bOwLcuGRuTGW6x7xw5-	9ceccd28-98f6-43ed-821c-e6c39bba16ff	2023-10-20 17:04:24.731009+00	2023-10-20 17:04:24.731009+00	1401947e-9975-48a4-b63d-6fa8fdee922c
+4197a077-387e-4763-a846-f6a6f40936e7	DRn5mc1THQ-3YQwexel-E	90bba518-bb15-44a7-aeb5-b8143b851b22	2023-10-21 05:11:48.29993+00	2023-10-21 05:11:48.29993+00	d8df09ce-7124-4c28-bb05-662a721dd5be
 \.
 
 
